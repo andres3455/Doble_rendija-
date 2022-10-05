@@ -66,7 +66,7 @@ Imagenes:
 
 
 # Autores:
-/Sanchez Murcia Juan Daniel
-/Rodriguez Chaparro Andres Felipe
-/Robinson Maria Paula 
+. Sanchez Murcia Juan Daniel
+. Rodriguez Chaparro Andres Felipe
+. Robinson Maria Paula 
 
