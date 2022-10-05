@@ -8,7 +8,9 @@ Aquí, la física cuántica explica este fenómeno. La teoría más ampliamente 
 Esta teoría abre la posibilidad de hablar de un multiverso, donde las partículas de nuestro universo tienen historias diferentes, pertenecen a otros universos y pueden interactuar entre sí.
 
 # Doble_rendija-
-Imagenes:
+
+Imagenes
+
 ![WhatsApp Image 2022-10-05 at 11 12 07 AM](https://user-images.githubusercontent.com/111390187/194109819-57346119-7347-4876-85fe-f374f78d81ca.jpeg)
 ![WhatsApp Image 2022-10-04 at 11 17 49 PM (1)](https://user-images.githubusercontent.com/111390187/194089925-db38e802-c7bb-4044-ae7c-bc04ea172f8f.jpeg)
 ![WhatsApp Image 2022-10-04 at 11 17 31 PM (1)](https://user-images.githubusercontent.com/111390187/194089972-d08d9307-06d2-4e8c-910a-1681963552bc.jpeg)
