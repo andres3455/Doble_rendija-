@@ -6,7 +6,6 @@ Vamos a utilizar las librerias del repositorio,
 
 Primero mostramos un ejemplo del sistema si usáramos el sistema cuántico:
 
-# Por comodidad en la escritura definimos los números complejos como c1, c2, c3:
 # Para simplificar la escritura vamos a definir los complejos como c1, c2 y c3:
     c1 = (-1 / (6 ** 0.5), 1 / (6 ** 0.5))
 		c2 = (-1 / (6 ** 0.5), -1 / (6 ** 0.5))
