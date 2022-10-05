@@ -58,6 +58,7 @@ y podemos ver los resultados graficamente (Vector inicial, matriz resultado)
 . un bisturi
 . Carton Paja
 . Caja de Zapatos
+. Aluminio
 # Pasos:
 
 1/ Con un pedazo de aluminio, hacemos cortes lo mas finamente posibles para conseguir dos rendijas que estan lo mas minimamente separadas
