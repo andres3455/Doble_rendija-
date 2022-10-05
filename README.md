@@ -67,5 +67,5 @@ y podemos ver los resultados graficamente (Vector inicial, matriz resultado)
 # Autores:
 . Sanchez Murcia Juan Daniel
 . Rodriguez Chaparro Andres Felipe
-. Robinson Maria Paula 
+. Robinson Hidalgo Maria Paula 
 
